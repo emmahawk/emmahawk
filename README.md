@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Currently working on an open-source project called Bookish. Also trying to build a personal website.
+
 <!--
 **emmahawk/emmahawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
