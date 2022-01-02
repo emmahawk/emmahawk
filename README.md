@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hello! 
 
-## Currently working on an open-source project called Bookish. Also trying to build a personal website.
+- :seedling: Starting a graduate program in AI and hoping to learn about its long-term relationship with society.
+- :green_book: Always open to book recommendations ([my GoodReads](https://www.goodreads.com/hawkperson)).
 
 <!--
 **emmahawk/emmahawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
